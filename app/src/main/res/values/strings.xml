@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotificationActionButtonExample</string>
+
+    <string name="broadcast_id">com.rupinderjeet.my_broadcast_receiver</string>
+    <string name="notification_title">Sample Title</string>
+    <string name="notification_text">Sample Description Text</string>
+    <string name="perform_action">Perform Action</string>
+</resources>
